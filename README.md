@@ -1,3 +1,14 @@
+<p align="center">
+  <img 
+    src="./github-banner.png" 
+    alt="Krishna Suryawanshi GitHub Banner"
+    width="100%"
+  >
+</p>
+
+# 👋 Hi, I'm Krishna Suryawanshi
+
+### 💻 Computer Engineering Student | Python | SQL | Data Science
 # 👋 Hi, I'm Krishna Suryawanshi
 
 ### 💻 Computer Engineering Student | Python | SQL | Data Science
