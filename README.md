@@ -6,9 +6,7 @@
   >
 </p>
 
-# 👋 Hi, I'm Krishna Suryawanshi
 
-### 💻 Computer Engineering Student | Python | SQL | Data Science
 # 👋 Hi, I'm Krishna Suryawanshi
 
 ### 💻 Computer Engineering Student | Python | SQL | Data Science
